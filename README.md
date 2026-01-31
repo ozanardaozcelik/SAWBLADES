@@ -21,4 +21,4 @@ This game is designed to test the player's timing and reflexes. The objective is
 
 ## 🛠️ Built With
 
-This project relies on Python and its libraries to handle game logic and rendering.
+This project relies on Python and its libraries to handle game logic and rendering. /pygame/
